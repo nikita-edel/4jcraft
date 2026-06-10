@@ -1,6 +1,6 @@
 # <img src=".github-assets/logo.jpg" alt="Logo" width="50" height="50" style="vertical-align: middle;"> 4JCraft
 
-THE REPO GOT NUKED, THE OTHER REPO GOT DMCA'd this is whats left :(
+THE REPO GOT NUKED, THE OTHER REPO GOT DMCA'd this is whats left
 ---
 
 4JCraft is a modified version of the Minecraft Console Legacy Edition, aimed at porting old Minecraft to different platforms (such as Linux, Android, Emscripten, etc.) and refactoring the codebase to improve organization and use modern C++ features.
